@@ -3,6 +3,8 @@ using System.Collections;
 
 public class SelectableComponent : MonoBehaviour {
 
+    public GameObject InfoBoardPrefab;
+
     private string ComponentName;
     private string ComponentDimensions;
     private string ComponentWeight;
@@ -18,7 +20,9 @@ public class SelectableComponent : MonoBehaviour {
 	
     void OnSelect()
     {
-        // Show billboard in the direction of player and send object reference
-        Debug.Log(ComponentName + " Selected");
+        var currentCursorPosition = GameObject.FindGameObjectWithTag("Cursor").transform.position;
+        GameObject infoBoard = Instantiate(InfoBoardPrefab);
+        infoBoard.transform.parent = gameObject.transform;
+        infoBoard.transform.position = new Vector3(currentCursorPosition.x, currentCursorPosition.y, currentCursorPosition.z);
     }
 }
