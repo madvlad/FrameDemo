@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: 239e67ae099b8e5428088f53d21cbd59
+timeCreated: 1481989140
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e010000710100007201000073010000740100007501000076010000790100007a0100007b0100007c0100007d0100007e010000810100008201000083010000840100008501000086010000890100008a0100008b0100008c0100008d0100008e010000910100009201000093010000940100009501000096010000990100009a0100009b0100009c0100009d0100009e010000a1010000a2010000a3010000a4010000a5010000a6010000a9010000aa010000ab010000ac010000ad010000ae010000b1010000b2010000b3010000b4010000b5010000b6010000b9010000ba010000bb010000bc010000bd010000be010000c1010000c2010000c3010000c4010000c5010000c6010000c9010000ca010000cb010000cc010000cd010000ce010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 051857f0a75fc031daee1ee3448d366e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 9.539748, y: 0.8135095, z: 9.936392}
+      lookAt: {x: 2.2010825, y: -0.2286906, z: 9.612777}
+      up: {x: -0.14033397, y: 0.99008495, z: -0.00618834}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 10
+    100006: base 11
+    100008: base 2
+    100010: base 3
+    100012: base 4
+    100014: base 5
+    100016: base 6
+    100018: base 7
+    100020: base 8
+    100022: base 9
+    100024: Chandelier Ball
+    100026: Chandelier Ball 1
+    100028: Chandelier Ball 10
+    100030: Chandelier Ball 11
+    100032: Chandelier Ball 12
+    100034: Chandelier Ball 13
+    100036: Chandelier Ball 14
+    100038: Chandelier Ball 15
+    100040: Chandelier Ball 16
+    100042: Chandelier Ball 17
+    100044: Chandelier Ball 18
+    100046: Chandelier Ball 2
+    100048: Chandelier Ball 3
+    100050: Chandelier Ball 4
+    100052: Chandelier Ball 5
+    100054: Chandelier Ball 6
+    100056: Chandelier Ball 7
+    100058: Chandelier Ball 8
+    100060: Chandelier Ball 9
+    100062: chandelier limb 01
+    100064: chandelier limb 01 1
+    100066: chandelier limb 01 2
+    100068: chandelier limb 01 3
+    100070: chandelier limb 01 4
+    100072: chandelier limb 01 5
+    100074: chandelier limb 02
+    100076: chandelier limb 02 1
+    100078: chandelier limb 02 2
+    100080: chandelier limb 02 3
+    100082: chandelier limb 02 4
+    100084: chandelier limb 02 5
+    100086: chandelier limb 02 6
+    100088: chandelier limb 03
+    100090: chandelier limb 03 1
+    100092: chandelier limb 03 2
+    100094: chandelier limb 03 3
+    100096: chandelier limb 03 4
+    100098: Component#2
+    100100: Component#2 1
+    100102: Component#2 2
+    100104: Component#2 3
+    100106: end
+    100108: end 1
+    100110: end 2
+    100112: end 3
+    100114: flower
+    100116: flower 1
+    100118: flower 2
+    100120: flower 3
+    100122: Group 13
+    100124: Group 18
+    100126: Group 189
+    100128: Group 194
+    100130: Group 201
+    100132: Group 208
+    100134: Group 215
+    100136: Group 222
+    100138: Group 229
+    100140: Group 23
+    100142: Group 236
+    100144: Group 243
+    100146: Group 254
+    100148: Group 261
+    100150: Group 268
+    100152: Group 275
+    100154: Group 28
+    100156: Group 282
+    100158: Group 289
+    100160: Group 296
+    100162: Group 3
+    100164: Group 303
+    100166: Group 310
+    100168: Group 317
+    100170: Group 327
+    100172: Group 328
+    100174: Group 329
+    100176: Group 33
+    100178: Group 330
+    100180: Group 331
+    100182: Group 332
+    100184: Group 333
+    100186: Group 334
+    100188: Group 335
+    100190: Group 336
+    100192: Group 337
+    100194: Group 338
+    100196: Group 339
+    100198: Group 340
+    100200: Group 341
+    100202: Group 342
+    100204: Group 345
+    100206: Group 346
+    100208: Group 347
+    100210: Group 348
+    100212: Group 349
+    100214: Group 350
+    100216: Group 351
+    100218: Group 352
+    100220: Group 353
+    100222: Group 354
+    100224: Group 355
+    100226: Group 356
+    100228: Group 357
+    100230: Group 358
+    100232: Group 359
+    100234: Group 360
+    100236: Group 369
+    100238: Group 37
+    100240: Group 377
+    100242: Group 38
+    100244: Group 385
+    100246: Group 39
+    100248: Group 393
+    100250: Group 40
+    100252: Group 401
+    100254: Group 409
+    100256: Group 41
+    100258: Group 417
+    100260: Group 42
+    100262: Group 425
+    100264: Group 43
+    100266: Group 433
+    100268: Group 44
+    100270: Group 441
+    100272: Group 449
+    100274: Group 45
+    100276: Group 457
+    100278: Group 46
+    100280: Group 465
+    100282: Group 47
+    100284: Group 48
+    100286: Group 49
+    100288: Group 50
+    100290: Group 51
+    100292: Group 52
+    100294: Group 59
+    100296: Group 60
+    100298: Group 61
+    100300: Group 62
+    100302: Group 63
+    100304: Group 64
+    100306: Group 65
+    100308: Group 66
+    100310: Group 67
+    100312: Group 68
+    100314: Group 69
+    100316: Group 70
+    100318: Group 71
+    100320: Group 72
+    100322: Group 73
+    100324: Group 74
+    100326: Group 8
+    100328: Group#5
+    100330: Group#5 1
+    100332: Group#5 2
+    100334: Group#8
+    100336: Group#8 1
+    100338: Group#8 10
+    100340: Group#8 11
+    100342: Group#8 2
+    100344: Group#8 3
+    100346: Group#8 4
+    100348: Group#8 5
+    100350: Group#8 6
+    100352: Group#8 7
+    100354: Group#8 8
+    100356: Group#8 9
+    100358: Image 2
+    100360: IR_lamp_bulb_glow_35W.skp
+    100362: IR_lamp_spot_glow_35W_60.skp
+    100364: IR_lamp_spot_glow_35W_60.skp 1
+    100366: IR_lamp_spot_glow_35W_60.skp 10
+    100368: IR_lamp_spot_glow_35W_60.skp 11
+    100370: IR_lamp_spot_glow_35W_60.skp 12
+    100372: IR_lamp_spot_glow_35W_60.skp 2
+    100374: IR_lamp_spot_glow_35W_60.skp 3
+    100376: IR_lamp_spot_glow_35W_60.skp 4
+    100378: IR_lamp_spot_glow_35W_60.skp 5
+    100380: IR_lamp_spot_glow_35W_60.skp 6
+    100382: IR_lamp_spot_glow_35W_60.skp 7
+    100384: IR_lamp_spot_glow_35W_60.skp 8
+    100386: IR_lamp_spot_glow_35W_60.skp 9
+    100388: //RootNode
+    100390: leaf
+    100392: leaf 1
+    100394: leaf 2
+    100396: leaf 3
+    100398: leaf 4
+    100400: leaf 5
+    100402: leaf 6
+    100404: Mod Opal Chandelier
+    100406: Omni_10
+    100408: Omni_9
+    100410: Omni_9 1
+    100412: Omni_9 10
+    100414: Omni_9 11
+    100416: Omni_9 12
+    100418: Omni_9 13
+    100420: Omni_9 14
+    100422: Omni_9 15
+    100424: Omni_9 16
+    100426: Omni_9 17
+    100428: Omni_9 18
+    100430: Omni_9 2
+    100432: Omni_9 3
+    100434: Omni_9 4
+    100436: Omni_9 5
+    100438: Omni_9 6
+    100440: Omni_9 7
+    100442: Omni_9 8
+    100444: Omni_9 9
+    100446: petal#1
+    100448: petal#1 1
+    100450: petal#1 10
+    100452: petal#1 11
+    100454: petal#1 12
+    100456: petal#1 13
+    100458: petal#1 14
+    100460: petal#1 15
+    100462: petal#1 2
+    100464: petal#1 3
+    100466: petal#1 4
+    100468: petal#1 5
+    100470: petal#1 6
+    100472: petal#1 7
+    100474: petal#1 8
+    100476: petal#1 9
+    100478: Plant_flower
+    100480: Plant_flower 1
+    100482: Plant_flower 2
+    100484: Plant_flower2
+    100486: round bowl
+    100488: RPS_lamp_glow
+    100490: RPS_lamp_glow 1
+    100492: RPS_lamp_glow 10
+    100494: RPS_lamp_glow 11
+    100496: RPS_lamp_glow 12
+    100498: RPS_lamp_glow 13
+    100500: RPS_lamp_glow 2
+    100502: RPS_lamp_glow 3
+    100504: RPS_lamp_glow 4
+    100506: RPS_lamp_glow 5
+    100508: RPS_lamp_glow 6
+    100510: RPS_lamp_glow 7
+    100512: RPS_lamp_glow 8
+    100514: RPS_lamp_glow 9
+    100516: stem
+    100518: stem 1
+    100520: stem 2
+    100522: stem2
+    100524: Table_Coffee_Glass_Round
+    100526: Table_Coffee_Smooth_Plastic
+    100528: Table_End_Glass_Square
+    100530: table_quarter
+    100532: table_quarter 1
+    100534: table_quarter 2
+    100536: table_quarter 3
+    100538: Table_quarter#1
+    100540: Table_quarter#1 1
+    100542: Table_quarter#1 2
+    100544: Table_quarter#1 3
+    100546: Vase_Quarter
+    100548: Vase_Quarter 1
+    100550: Vase_Quarter 2
+    100552: Vase_Quarter 3
+    100554: Vase_Short_Flowers
+    100556: vase_thin
+    100558: Window_Curtains2
+    400000: base
+    400002: base 1
+    400004: base 10
+    400006: base 11
+    400008: base 2
+    400010: base 3
+    400012: base 4
+    400014: base 5
+    400016: base 6
+    400018: base 7
+    400020: base 8
+    400022: base 9
+    400024: Chandelier Ball
+    400026: Chandelier Ball 1
+    400028: Chandelier Ball 10
+    400030: Chandelier Ball 11
+    400032: Chandelier Ball 12
+    400034: Chandelier Ball 13
+    400036: Chandelier Ball 14
+    400038: Chandelier Ball 15
+    400040: Chandelier Ball 16
+    400042: Chandelier Ball 17
+    400044: Chandelier Ball 18
+    400046: Chandelier Ball 2
+    400048: Chandelier Ball 3
+    400050: Chandelier Ball 4
+    400052: Chandelier Ball 5
+    400054: Chandelier Ball 6
+    400056: Chandelier Ball 7
+    400058: Chandelier Ball 8
+    400060: Chandelier Ball 9
+    400062: chandelier limb 01
+    400064: chandelier limb 01 1
+    400066: chandelier limb 01 2
+    400068: chandelier limb 01 3
+    400070: chandelier limb 01 4
+    400072: chandelier limb 01 5
+    400074: chandelier limb 02
+    400076: chandelier limb 02 1
+    400078: chandelier limb 02 2
+    400080: chandelier limb 02 3
+    400082: chandelier limb 02 4
+    400084: chandelier limb 02 5
+    400086: chandelier limb 02 6
+    400088: chandelier limb 03
+    400090: chandelier limb 03 1
+    400092: chandelier limb 03 2
+    400094: chandelier limb 03 3
+    400096: chandelier limb 03 4
+    400098: Component#2
+    400100: Component#2 1
+    400102: Component#2 2
+    400104: Component#2 3
+    400106: end
+    400108: end 1
+    400110: end 2
+    400112: end 3
+    400114: flower
+    400116: flower 1
+    400118: flower 2
+    400120: flower 3
+    400122: Group 13
+    400124: Group 18
+    400126: Group 189
+    400128: Group 194
+    400130: Group 201
+    400132: Group 208
+    400134: Group 215
+    400136: Group 222
+    400138: Group 229
+    400140: Group 23
+    400142: Group 236
+    400144: Group 243
+    400146: Group 254
+    400148: Group 261
+    400150: Group 268
+    400152: Group 275
+    400154: Group 28
+    400156: Group 282
+    400158: Group 289
+    400160: Group 296
+    400162: Group 3
+    400164: Group 303
+    400166: Group 310
+    400168: Group 317
+    400170: Group 327
+    400172: Group 328
+    400174: Group 329
+    400176: Group 33
+    400178: Group 330
+    400180: Group 331
+    400182: Group 332
+    400184: Group 333
+    400186: Group 334
+    400188: Group 335
+    400190: Group 336
+    400192: Group 337
+    400194: Group 338
+    400196: Group 339
+    400198: Group 340
+    400200: Group 341
+    400202: Group 342
+    400204: Group 345
+    400206: Group 346
+    400208: Group 347
+    400210: Group 348
+    400212: Group 349
+    400214: Group 350
+    400216: Group 351
+    400218: Group 352
+    400220: Group 353
+    400222: Group 354
+    400224: Group 355
+    400226: Group 356
+    400228: Group 357
+    400230: Group 358
+    400232: Group 359
+    400234: Group 360
+    400236: Group 369
+    400238: Group 37
+    400240: Group 377
+    400242: Group 38
+    400244: Group 385
+    400246: Group 39
+    400248: Group 393
+    400250: Group 40
+    400252: Group 401
+    400254: Group 409
+    400256: Group 41
+    400258: Group 417
+    400260: Group 42
+    400262: Group 425
+    400264: Group 43
+    400266: Group 433
+    400268: Group 44
+    400270: Group 441
+    400272: Group 449
+    400274: Group 45
+    400276: Group 457
+    400278: Group 46
+    400280: Group 465
+    400282: Group 47
+    400284: Group 48
+    400286: Group 49
+    400288: Group 50
+    400290: Group 51
+    400292: Group 52
+    400294: Group 59
+    400296: Group 60
+    400298: Group 61
+    400300: Group 62
+    400302: Group 63
+    400304: Group 64
+    400306: Group 65
+    400308: Group 66
+    400310: Group 67
+    400312: Group 68
+    400314: Group 69
+    400316: Group 70
+    400318: Group 71
+    400320: Group 72
+    400322: Group 73
+    400324: Group 74
+    400326: Group 8
+    400328: Group#5
+    400330: Group#5 1
+    400332: Group#5 2
+    400334: Group#8
+    400336: Group#8 1
+    400338: Group#8 10
+    400340: Group#8 11
+    400342: Group#8 2
+    400344: Group#8 3
+    400346: Group#8 4
+    400348: Group#8 5
+    400350: Group#8 6
+    400352: Group#8 7
+    400354: Group#8 8
+    400356: Group#8 9
+    400358: Image 2
+    400360: IR_lamp_bulb_glow_35W.skp
+    400362: IR_lamp_spot_glow_35W_60.skp
+    400364: IR_lamp_spot_glow_35W_60.skp 1
+    400366: IR_lamp_spot_glow_35W_60.skp 10
+    400368: IR_lamp_spot_glow_35W_60.skp 11
+    400370: IR_lamp_spot_glow_35W_60.skp 12
+    400372: IR_lamp_spot_glow_35W_60.skp 2
+    400374: IR_lamp_spot_glow_35W_60.skp 3
+    400376: IR_lamp_spot_glow_35W_60.skp 4
+    400378: IR_lamp_spot_glow_35W_60.skp 5
+    400380: IR_lamp_spot_glow_35W_60.skp 6
+    400382: IR_lamp_spot_glow_35W_60.skp 7
+    400384: IR_lamp_spot_glow_35W_60.skp 8
+    400386: IR_lamp_spot_glow_35W_60.skp 9
+    400388: //RootNode
+    400390: leaf
+    400392: leaf 1
+    400394: leaf 2
+    400396: leaf 3
+    400398: leaf 4
+    400400: leaf 5
+    400402: leaf 6
+    400404: Mod Opal Chandelier
+    400406: Omni_10
+    400408: Omni_9
+    400410: Omni_9 1
+    400412: Omni_9 10
+    400414: Omni_9 11
+    400416: Omni_9 12
+    400418: Omni_9 13
+    400420: Omni_9 14
+    400422: Omni_9 15
+    400424: Omni_9 16
+    400426: Omni_9 17
+    400428: Omni_9 18
+    400430: Omni_9 2
+    400432: Omni_9 3
+    400434: Omni_9 4
+    400436: Omni_9 5
+    400438: Omni_9 6
+    400440: Omni_9 7
+    400442: Omni_9 8
+    400444: Omni_9 9
+    400446: petal#1
+    400448: petal#1 1
+    400450: petal#1 10
+    400452: petal#1 11
+    400454: petal#1 12
+    400456: petal#1 13
+    400458: petal#1 14
+    400460: petal#1 15
+    400462: petal#1 2
+    400464: petal#1 3
+    400466: petal#1 4
+    400468: petal#1 5
+    400470: petal#1 6
+    400472: petal#1 7
+    400474: petal#1 8
+    400476: petal#1 9
+    400478: Plant_flower
+    400480: Plant_flower 1
+    400482: Plant_flower 2
+    400484: Plant_flower2
+    400486: round bowl
+    400488: RPS_lamp_glow
+    400490: RPS_lamp_glow 1
+    400492: RPS_lamp_glow 10
+    400494: RPS_lamp_glow 11
+    400496: RPS_lamp_glow 12
+    400498: RPS_lamp_glow 13
+    400500: RPS_lamp_glow 2
+    400502: RPS_lamp_glow 3
+    400504: RPS_lamp_glow 4
+    400506: RPS_lamp_glow 5
+    400508: RPS_lamp_glow 6
+    400510: RPS_lamp_glow 7
+    400512: RPS_lamp_glow 8
+    400514: RPS_lamp_glow 9
+    400516: stem
+    400518: stem 1
+    400520: stem 2
+    400522: stem2
+    400524: Table_Coffee_Glass_Round
+    400526: Table_Coffee_Smooth_Plastic
+    400528: Table_End_Glass_Square
+    400530: table_quarter
+    400532: table_quarter 1
+    400534: table_quarter 2
+    400536: table_quarter 3
+    400538: Table_quarter#1
+    400540: Table_quarter#1 1
+    400542: Table_quarter#1 2
+    400544: Table_quarter#1 3
+    400546: Vase_Quarter
+    400548: Vase_Quarter 1
+    400550: Vase_Quarter 2
+    400552: Vase_Quarter 3
+    400554: Vase_Short_Flowers
+    400556: vase_thin
+    400558: Window_Curtains2
+    2300000: base
+    2300002: base 1
+    2300004: base 10
+    2300006: base 11
+    2300008: base 2
+    2300010: base 3
+    2300012: base 4
+    2300014: base 5
+    2300016: base 6
+    2300018: base 7
+    2300020: base 8
+    2300022: base 9
+    2300024: Chandelier Ball
+    2300026: Chandelier Ball 1
+    2300028: Chandelier Ball 10
+    2300030: Chandelier Ball 11
+    2300032: Chandelier Ball 12
+    2300034: Chandelier Ball 13
+    2300036: Chandelier Ball 14
+    2300038: Chandelier Ball 15
+    2300040: Chandelier Ball 16
+    2300042: Chandelier Ball 17
+    2300044: Chandelier Ball 18
+    2300046: Chandelier Ball 2
+    2300048: Chandelier Ball 3
+    2300050: Chandelier Ball 4
+    2300052: Chandelier Ball 5
+    2300054: Chandelier Ball 6
+    2300056: Chandelier Ball 7
+    2300058: Chandelier Ball 8
+    2300060: Chandelier Ball 9
+    2300062: Component#2
+    2300064: Component#2 1
+    2300066: Component#2 2
+    2300068: Component#2 3
+    2300070: end
+    2300072: end 1
+    2300074: end 2
+    2300076: end 3
+    2300078: Group 189
+    2300080: Group 194
+    2300082: Group 201
+    2300084: Group 208
+    2300086: Group 215
+    2300088: Group 222
+    2300090: Group 229
+    2300092: Group 236
+    2300094: Group 243
+    2300096: Group 254
+    2300098: Group 261
+    2300100: Group 268
+    2300102: Group 275
+    2300104: Group 282
+    2300106: Group 289
+    2300108: Group 296
+    2300110: Group 303
+    2300112: Group 310
+    2300114: Group 317
+    2300116: Group 33
+    2300118: Group 369
+    2300120: Group 377
+    2300122: Group 385
+    2300124: Group 393
+    2300126: Group 401
+    2300128: Group 409
+    2300130: Group 417
+    2300132: Group 425
+    2300134: Group 433
+    2300136: Group 441
+    2300138: Group 449
+    2300140: Group 457
+    2300142: Group 465
+    2300144: Group#5
+    2300146: Group#5 1
+    2300148: Group#5 2
+    2300150: Group#8
+    2300152: Group#8 1
+    2300154: Group#8 10
+    2300156: Group#8 11
+    2300158: Group#8 2
+    2300160: Group#8 3
+    2300162: Group#8 4
+    2300164: Group#8 5
+    2300166: Group#8 6
+    2300168: Group#8 7
+    2300170: Group#8 8
+    2300172: Group#8 9
+    2300174: Image 2
+    2300176: IR_lamp_spot_glow_35W_60.skp
+    2300178: IR_lamp_spot_glow_35W_60.skp 1
+    2300180: IR_lamp_spot_glow_35W_60.skp 10
+    2300182: IR_lamp_spot_glow_35W_60.skp 11
+    2300184: IR_lamp_spot_glow_35W_60.skp 12
+    2300186: IR_lamp_spot_glow_35W_60.skp 2
+    2300188: IR_lamp_spot_glow_35W_60.skp 3
+    2300190: IR_lamp_spot_glow_35W_60.skp 4
+    2300192: IR_lamp_spot_glow_35W_60.skp 5
+    2300194: IR_lamp_spot_glow_35W_60.skp 6
+    2300196: IR_lamp_spot_glow_35W_60.skp 7
+    2300198: IR_lamp_spot_glow_35W_60.skp 8
+    2300200: IR_lamp_spot_glow_35W_60.skp 9
+    2300202: //RootNode
+    2300204: leaf
+    2300206: leaf 1
+    2300208: leaf 2
+    2300210: leaf 3
+    2300212: leaf 4
+    2300214: leaf 5
+    2300216: leaf 6
+    2300218: Omni_10
+    2300220: Omni_9
+    2300222: Omni_9 1
+    2300224: Omni_9 10
+    2300226: Omni_9 11
+    2300228: Omni_9 12
+    2300230: Omni_9 13
+    2300232: Omni_9 14
+    2300234: Omni_9 15
+    2300236: Omni_9 16
+    2300238: Omni_9 17
+    2300240: Omni_9 18
+    2300242: Omni_9 2
+    2300244: Omni_9 3
+    2300246: Omni_9 4
+    2300248: Omni_9 5
+    2300250: Omni_9 6
+    2300252: Omni_9 7
+    2300254: Omni_9 8
+    2300256: Omni_9 9
+    2300258: petal#1
+    2300260: petal#1 1
+    2300262: petal#1 10
+    2300264: petal#1 11
+    2300266: petal#1 12
+    2300268: petal#1 13
+    2300270: petal#1 14
+    2300272: petal#1 15
+    2300274: petal#1 2
+    2300276: petal#1 3
+    2300278: petal#1 4
+    2300280: petal#1 5
+    2300282: petal#1 6
+    2300284: petal#1 7
+    2300286: petal#1 8
+    2300288: petal#1 9
+    2300290: round bowl
+    2300292: RPS_lamp_glow
+    2300294: RPS_lamp_glow 1
+    2300296: RPS_lamp_glow 10
+    2300298: RPS_lamp_glow 11
+    2300300: RPS_lamp_glow 12
+    2300302: RPS_lamp_glow 13
+    2300304: RPS_lamp_glow 2
+    2300306: RPS_lamp_glow 3
+    2300308: RPS_lamp_glow 4
+    2300310: RPS_lamp_glow 5
+    2300312: RPS_lamp_glow 6
+    2300314: RPS_lamp_glow 7
+    2300316: RPS_lamp_glow 8
+    2300318: RPS_lamp_glow 9
+    2300320: stem
+    2300322: stem 1
+    2300324: stem 2
+    2300326: stem2
+    2300328: Table_End_Glass_Square
+    2300330: table_quarter
+    2300332: table_quarter 1
+    2300334: table_quarter 2
+    2300336: table_quarter 3
+    2300338: Table_quarter#1
+    2300340: Table_quarter#1 1
+    2300342: Table_quarter#1 2
+    2300344: Table_quarter#1 3
+    2300346: Vase_Quarter
+    2300348: Vase_Quarter 1
+    2300350: Vase_Quarter 2
+    2300352: Vase_Quarter 3
+    2300354: Window_Curtains2
+    3300000: base
+    3300002: base 1
+    3300004: base 10
+    3300006: base 11
+    3300008: base 2
+    3300010: base 3
+    3300012: base 4
+    3300014: base 5
+    3300016: base 6
+    3300018: base 7
+    3300020: base 8
+    3300022: base 9
+    3300024: Chandelier Ball
+    3300026: Chandelier Ball 1
+    3300028: Chandelier Ball 10
+    3300030: Chandelier Ball 11
+    3300032: Chandelier Ball 12
+    3300034: Chandelier Ball 13
+    3300036: Chandelier Ball 14
+    3300038: Chandelier Ball 15
+    3300040: Chandelier Ball 16
+    3300042: Chandelier Ball 17
+    3300044: Chandelier Ball 18
+    3300046: Chandelier Ball 2
+    3300048: Chandelier Ball 3
+    3300050: Chandelier Ball 4
+    3300052: Chandelier Ball 5
+    3300054: Chandelier Ball 6
+    3300056: Chandelier Ball 7
+    3300058: Chandelier Ball 8
+    3300060: Chandelier Ball 9
+    3300062: Component#2
+    3300064: Component#2 1
+    3300066: Component#2 2
+    3300068: Component#2 3
+    3300070: end
+    3300072: end 1
+    3300074: end 2
+    3300076: end 3
+    3300078: Group 189
+    3300080: Group 194
+    3300082: Group 201
+    3300084: Group 208
+    3300086: Group 215
+    3300088: Group 222
+    3300090: Group 229
+    3300092: Group 236
+    3300094: Group 243
+    3300096: Group 254
+    3300098: Group 261
+    3300100: Group 268
+    3300102: Group 275
+    3300104: Group 282
+    3300106: Group 289
+    3300108: Group 296
+    3300110: Group 303
+    3300112: Group 310
+    3300114: Group 317
+    3300116: Group 33
+    3300118: Group 369
+    3300120: Group 377
+    3300122: Group 385
+    3300124: Group 393
+    3300126: Group 401
+    3300128: Group 409
+    3300130: Group 417
+    3300132: Group 425
+    3300134: Group 433
+    3300136: Group 441
+    3300138: Group 449
+    3300140: Group 457
+    3300142: Group 465
+    3300144: Group#5
+    3300146: Group#5 1
+    3300148: Group#5 2
+    3300150: Group#8
+    3300152: Group#8 1
+    3300154: Group#8 10
+    3300156: Group#8 11
+    3300158: Group#8 2
+    3300160: Group#8 3
+    3300162: Group#8 4
+    3300164: Group#8 5
+    3300166: Group#8 6
+    3300168: Group#8 7
+    3300170: Group#8 8
+    3300172: Group#8 9
+    3300174: Image 2
+    3300176: IR_lamp_spot_glow_35W_60.skp
+    3300178: IR_lamp_spot_glow_35W_60.skp 1
+    3300180: IR_lamp_spot_glow_35W_60.skp 10
+    3300182: IR_lamp_spot_glow_35W_60.skp 11
+    3300184: IR_lamp_spot_glow_35W_60.skp 12
+    3300186: IR_lamp_spot_glow_35W_60.skp 2
+    3300188: IR_lamp_spot_glow_35W_60.skp 3
+    3300190: IR_lamp_spot_glow_35W_60.skp 4
+    3300192: IR_lamp_spot_glow_35W_60.skp 5
+    3300194: IR_lamp_spot_glow_35W_60.skp 6
+    3300196: IR_lamp_spot_glow_35W_60.skp 7
+    3300198: IR_lamp_spot_glow_35W_60.skp 8
+    3300200: IR_lamp_spot_glow_35W_60.skp 9
+    3300202: //RootNode
+    3300204: leaf
+    3300206: leaf 1
+    3300208: leaf 2
+    3300210: leaf 3
+    3300212: leaf 4
+    3300214: leaf 5
+    3300216: leaf 6
+    3300218: Omni_10
+    3300220: Omni_9
+    3300222: Omni_9 1
+    3300224: Omni_9 10
+    3300226: Omni_9 11
+    3300228: Omni_9 12
+    3300230: Omni_9 13
+    3300232: Omni_9 14
+    3300234: Omni_9 15
+    3300236: Omni_9 16
+    3300238: Omni_9 17
+    3300240: Omni_9 18
+    3300242: Omni_9 2
+    3300244: Omni_9 3
+    3300246: Omni_9 4
+    3300248: Omni_9 5
+    3300250: Omni_9 6
+    3300252: Omni_9 7
+    3300254: Omni_9 8
+    3300256: Omni_9 9
+    3300258: petal#1
+    3300260: petal#1 1
+    3300262: petal#1 10
+    3300264: petal#1 11
+    3300266: petal#1 12
+    3300268: petal#1 13
+    3300270: petal#1 14
+    3300272: petal#1 15
+    3300274: petal#1 2
+    3300276: petal#1 3
+    3300278: petal#1 4
+    3300280: petal#1 5
+    3300282: petal#1 6
+    3300284: petal#1 7
+    3300286: petal#1 8
+    3300288: petal#1 9
+    3300290: round bowl
+    3300292: RPS_lamp_glow
+    3300294: RPS_lamp_glow 1
+    3300296: RPS_lamp_glow 10
+    3300298: RPS_lamp_glow 11
+    3300300: RPS_lamp_glow 12
+    3300302: RPS_lamp_glow 13
+    3300304: RPS_lamp_glow 2
+    3300306: RPS_lamp_glow 3
+    3300308: RPS_lamp_glow 4
+    3300310: RPS_lamp_glow 5
+    3300312: RPS_lamp_glow 6
+    3300314: RPS_lamp_glow 7
+    3300316: RPS_lamp_glow 8
+    3300318: RPS_lamp_glow 9
+    3300320: stem
+    3300322: stem 1
+    3300324: stem 2
+    3300326: stem2
+    3300328: Table_End_Glass_Square
+    3300330: table_quarter
+    3300332: table_quarter 1
+    3300334: table_quarter 2
+    3300336: table_quarter 3
+    3300338: Table_quarter#1
+    3300340: Table_quarter#1 1
+    3300342: Table_quarter#1 2
+    3300344: Table_quarter#1 3
+    3300346: Vase_Quarter
+    3300348: Vase_Quarter 1
+    3300350: Vase_Quarter 2
+    3300352: Vase_Quarter 3
+    3300354: Window_Curtains2
+    4300000: Mesh jonybhai+living
+    4300002: Mesh jonybhai+living
+    4300004: Mesh Group#8
+    4300006: Mesh Group 33
+    4300008: Mesh Component#2
+    4300010: Mesh end
+    4300012: Mesh table_quarter
+    4300014: Mesh Table_End_Glass_Square
+    4300016: Mesh base
+    4300018: Mesh Group#5
+    4300020: Mesh Vase_Quarter
+    4300022: Mesh stem
+    4300024: Mesh leaf
+    4300026: Mesh petal#1
+    4300028: Mesh stem2
+    4300030: Mesh Group 189
+    4300032: Mesh Omni_10
+    4300034: Mesh Group 194
+    4300036: Mesh Chandelier Ball
+    4300038: Mesh Omni_9
+    4300040: Mesh Group 222
+    4300042: Mesh Group 254
+    4300044: Mesh Chandelier Ball
+    4300046: Mesh Window_Curtains2
+    4300048: Mesh IR_lamp_spot_glow_35W_60.skp
+    4300050: Mesh Group 369
+    4300052: Mesh RPS_lamp_glow
+    4300054: Mesh RPS_lamp_glow
+    4300056: Mesh Table_quarter#1
+    4300058: Mesh Table_quarter#1
+    4300060: Mesh round bowl
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
