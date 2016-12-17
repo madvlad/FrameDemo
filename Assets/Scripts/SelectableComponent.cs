@@ -20,6 +20,12 @@ public class SelectableComponent : MonoBehaviour {
 	
     void OnSelect()
     {
+        // Clean up previous boards
+        var OtherOpenBoards = GameObject.FindGameObjectsWithTag("InfoBoard");
+        foreach(var board in OtherOpenBoards)
+            Destroy(board);
+
+        // Create our new board
         var currentCursorPosition = GameObject.FindGameObjectWithTag("Cursor").transform.position;
         GameObject infoBoard = Instantiate(InfoBoardPrefab);
         infoBoard.transform.parent = gameObject.transform;
