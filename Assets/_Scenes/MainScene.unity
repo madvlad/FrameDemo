@@ -503,7 +503,7 @@ Prefab:
     - target: {fileID: 198000013663057752, guid: d16a77da8a6181c49bc3c861d8730f13,
         type: 2}
       propertyPath: EmissionModule.rate.scalar
-      value: 50
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 114000012779761844, guid: d16a77da8a6181c49bc3c861d8730f13,
         type: 2}
@@ -521,6 +521,11 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 93be7f12a1964e146872aa0ae88e4883, type: 2}
+    - target: {fileID: 198000013663057752, guid: d16a77da8a6181c49bc3c861d8730f13,
+        type: 2}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d16a77da8a6181c49bc3c861d8730f13, type: 2}
   m_IsPrefabParent: 0
