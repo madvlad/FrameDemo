@@ -8,19 +8,26 @@ public class OriginSelect : MonoBehaviour {
     private bool isPlacing = true;
 	// Use this for initialization
 	void Start() {
-        OriginAnchor.SendMessage("OnSelect");
-	}
+        Invoke("SendSelectMessage", 2);
+    }
+
+    void SendSelectMessage()
+    {
+        gameObject.SendMessage("OnSelect");
+    }
 
     void OnSelect()
     {
         if (isPlacing)
         {
             isPlacing = false;
-        } else
+        }
+        else
         {
-            Debug.Log("Origin Set");
+            Destroy(GameObject.FindGameObjectWithTag("SpatialMapping"));
             var frame = Instantiate(BuildingFrame);
-            BuildingFrame.transform.position = OriginAnchor.transform.position;
+            frame.transform.position = OriginAnchor.transform.position;
+            frame.transform.rotation = OriginAnchor.transform.rotation;
             Destroy(OriginAnchor);
         }
     }

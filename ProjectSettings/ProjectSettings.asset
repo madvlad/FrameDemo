@@ -337,14 +337,15 @@ PlayerSettings:
   psp2UseDebugIl2cppLibs: 0
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    14: 
   metroPackageName: Presentation
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 001d0027d377d301
   metroApplicationDescription: Presentation
   wsaImages: {}
   metroTileShortName: 
@@ -363,7 +364,7 @@ PlayerSettings:
     WindowsStoreApps:
       InternetClient: False
       Microphone: False
-      SpatialPerception: False
+      SpatialPerception: True
       WebCam: False
   metroFTAName: 
   metroFTAFileTypes: []
